@@ -1,0 +1,12 @@
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+C:\Users\MONSTER\Desktop\week-2-assigment-Hderkan\week-2\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll
