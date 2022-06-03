@@ -9,6 +9,7 @@ namespace EntityLayer.Concrate
 {
     public class Product
     {
+        //code first yapı entity katmanında class oluşturdum.
         [Key]
         public int ProductID { get; set; }
         public string ProductName { get; set; }

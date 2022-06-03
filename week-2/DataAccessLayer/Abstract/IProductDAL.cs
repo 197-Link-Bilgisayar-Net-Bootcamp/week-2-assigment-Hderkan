@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
+    //genericdal dan kalıtım alındı.
     public interface IProductDAL: IGenericDAL<Product>
     {
 

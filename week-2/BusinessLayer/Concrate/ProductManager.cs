@@ -9,15 +9,19 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Concrate
 {
+    //productmanager clasında abstractaki interfaceten katım alındım ve metodları implement ettim.
     public class ProductManager : IProductService
     {
         IProductDAL _productDAL;
+        //bir productdal nesnesi oluşturuldum.
 
         public ProductManager(IProductDAL productDAL)
         {
+            //constracter metod oluşturdum.
             _productDAL = productDAL;
 
         }
+        //temel crud işlemleri 
 
         public Product GetById(int id)
         {

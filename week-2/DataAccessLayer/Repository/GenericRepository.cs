@@ -8,6 +8,8 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Repository
 {
+
+    //generic yapıda temel crud işlemleri.
     public class GenericRepository<T> : IGenericDAL<T> where T : class
     {
         public void Delete(T t)

@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Abstract
 {
+    // abstrack klasöründe interfaceleri tanımladım tüm katmanlarda
     public interface IProductService
     {
+        //temel crud işlemleri
         void ProductAdd(Product product);
         void ProductDelete(Product product);
         void ProductUpdate(Product product);

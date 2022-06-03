@@ -9,8 +9,10 @@ namespace UI.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
+        //businnes katmanıda concratette product managerdan bir nesne oluşturdum.
         ProductManager pm = new ProductManager(new EFProductRepository()); 
-        
+        //api işlemleri.
+
         [HttpGet]
         public IActionResult GetList(Product product)
         {
